@@ -1,0 +1,178 @@
+canonical_identifier: bkk:krp/KR6k0139/T/v1
+canonical_location: https://kanripo.org/bkk/KR6k0139/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 三部律抄
+  identifiers:
+    krp: KR6k0139
+    cbeta: T85n2793
+    cbeta_old_id: T85n2793
+    authorityid: CA0004813
+    json_key: T2793
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2793.xml
+    old_id: T85n2793
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0139_000-T.yaml, hash: 'sha256:fda77910f75150f735f66078a8f41bd1c327167f2dc0db615b7703b458784c0a'}
+  - {seq: 1, filename: KR6k0139_001-T.yaml, hash: 'sha256:d5a2bdb9bb5e593967f288434c2373c46e6c5dce355330b0b8e26d94bc8a6036'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0139_000-T.markers.yaml, hash: 'sha256:4b3d4564b149c7cf7b76271b429942004d25f94386b13c6e47a3f03f5f3bd2f0'}
+  - {seq: 1, role: markers, filename: assets/KR6k0139_001-T.markers.yaml, hash: 'sha256:2c1940fe4ad32feb0055f1c88d902a824f1e9ca0b94c7f8c9f6fc0dc95ed3f4b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0139_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 15643
+  label: 三部律抄一卷
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0139_T_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 1-3 （缺）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0139_T_001-mulu-2
+    span:
+    - body
+    - 602
+    - 602
+  label: 4 布薩品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0139_T_001-mulu-3
+    span:
+    - body
+    - 1446
+    - 1446
+  label: 5 安居品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0139_T_001-mulu-4
+    span:
+    - body
+    - 2619
+    - 2619
+  label: 6 自恣品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0139_T_001-mulu-5
+    span:
+    - body
+    - 3225
+    - 3225
+  label: 7 明結淨地品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0139_T_001-mulu-6
+    span:
+    - body
+    - 4376
+    - 4376
+  label: 8 出僧殘罪品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0139_T_001-mulu-7
+    span:
+    - body
+    - 5823
+    - 5823
+  label: 9 雜事品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0139_T_001-mulu-8
+    span:
+    - body
+    - 7919
+    - 7919
+  label: 10 亡比丘衣物品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0139_T_001-mulu-9
+    span:
+    - body
+    - 9324
+    - 9324
+  label: 11 明四方僧物品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0139_T_001-mulu-10
+    span:
+    - body
+    - 9987
+    - 9987
+  label: 12 明衣物品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0139_T_001-mulu-11
+    span:
+    - body
+    - 10916
+    - 10916
+  label: 13 教戒比丘尼品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0139_T_001-mulu-12
+    span:
+    - body
+    - 11762
+    - 11762
+  label: 14 月半月盡懺悔品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0139_T_001-mulu-13
+    span:
+    - body
+    - 12391
+    - 12391
+  label: 15 輕重不同會通品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0139_T_001-mulu-14
+    span:
+    - body
+    - 13582
+    - 13582
+  label: 16 事七滅諍品
+  type: mulu
+  level: 1
+hash: sha256:59713af303396923609c4d1e8722c788f491d1ce8d4bf867e66679f829e4a9a0
